@@ -1,2 +1,20 @@
 # Lead-Scoring-Case-Study
-This repository contains a project related to the Lead Scoring Case study for a company.
+## Objective
+An education company named X Education sells online courses to industry professionals. The company markets its courses on several websites and search engines like Google. Once these people land on the website, they might browse the courses or fill up a form for the course or watch some videos. When these people fill up a form providing their email address or phone number, they are classified to be a lead. Now, although X Education gets a lot of leads, its lead conversion rate is very poor. For example, if, say, they acquire 100 leads in a day, only about 30 of them are converted. 
+X Education has appointed you to help them select the most promising leads, i.e. the leads that are most likely to convert into paying customers
+The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance
+
+## Major Steps followed:
+1. Reading and Visualizing the data
+2. Data Cleaning
+3. Data Prepation
+4. Model Building
+5. Model Evaluation
+6. Results
+
+## Important documents
+1. Lead_Scoring_Case_Study-Bharadwaj_Bulusu python file
+2. Leads.csv: Data
+3. Leads Data Dictionary.xlsx: Data Dictionary of the variables
+4. Summary Report for the Case Study
+
